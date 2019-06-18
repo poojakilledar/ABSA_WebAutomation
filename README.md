@@ -34,8 +34,11 @@ Input Data :
 environments  -> production -> environment.properties
 			  -> qa	-> environment.properties
 -Page Object model implemented to store and use web elements
- 
-Test Output:
+
+#Test Execution
+1. Run testng.xml to execute the testcases. AutomatonReport.html gets created when the suite is executed.
+
+# Test Output:
 -Implemented extent report to log and document for test cases with steps along with results.
 - Latest execution report is saved as "AutomationReport.html" under "Results" folder
 	Results -> AutomationReport.html
