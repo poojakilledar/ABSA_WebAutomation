@@ -20,7 +20,7 @@ Pooja Killedar.
 
 # Running the tests
 - Right click on Project. Click on Maven -> Update Project.
-- Right click on Project -> Run As -> TestNG.
+- Right click on Project -> Run As -> Run Configurations -> Select Suite -> Browse and Select testng.xml file and press Apply -> Run.
  
 # Tests
 com.absa.testcases package contains all test cases. Below class file is created to automate pre-defined test flows. 
