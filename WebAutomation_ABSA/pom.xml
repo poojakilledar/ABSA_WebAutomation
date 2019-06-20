@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.automation.framework</groupId>
-	<artifactId>Automation-Framework</artifactId>
+	<artifactId>WebAutomation_ABSA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Automation-Framework</name>
+	<name>WebAutomation_ABSA</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
